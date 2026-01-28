@@ -16,8 +16,6 @@ PUSHBUTTON- ONE LEG 5V , ANOTHER LEG TO  10K RESISTOR D5  AND THEN TO GND
 _____________________________
 
 SENSOR ARRAYS CONNECTIONS:
-Ensure your wires match this "Left-to-Right" physical flow. The code assumes **Pin 0 in the array is the Left-most sensor**.
-
 - **Far Left (Wing):** Sensor Board A7  Nano **D8**
 
 - **Left Center:** Sensor Board A6 Nano **A0**
